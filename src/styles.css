@@ -1,0 +1,59 @@
+h2,
+p {
+  font-family: poppins;
+}
+
+#city,
+#date {
+  font-weight: 900;
+  opacity: 0.8;
+}
+
+#date,
+.col-temperature {
+  position: relative;
+  top: -10px;
+}
+
+#date {
+  font-size: 20px;
+}
+
+.col-temperature {
+  font-size: 45px;
+  opacity: 0.8;
+}
+
+.units {
+  position: relative;
+  top: -21px;
+  left: -7px;
+  font-size: 15px;
+}
+
+.cloudy {
+  width: 170px;
+  position: relative;
+  top: 40px;
+}
+
+.upcoming-week-weather {
+  font-weight: 600;
+  font-size: 20px;
+  font-family: pt monospace;
+}
+
+.col.wed-degrees {
+  position: relative;
+  top: 12px;
+}
+
+.col.fri-degrees {
+  position: relative;
+  top: 12px;
+}
+
+.col.sat-degrees {
+  position: relative;
+  top: 12px;
+}
