@@ -57,3 +57,10 @@ p {
   position: relative;
   top: 12px;
 }
+
+.link {
+  text-decoration: none;
+}
+.link:hover {
+  text-decoration: underline;
+}
